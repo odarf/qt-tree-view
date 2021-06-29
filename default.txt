@@ -1,0 +1,5 @@
+Gruppa chelovekov odin
+ Chelovek iz pervoy gruppi chelovekov odin
+ Chelovek iz pervoy gruppi chelovekov dva
+Gruppa chelovekov dva
+ Chelovek iz vtoroi gruppi chelovekov odin
